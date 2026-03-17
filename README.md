@@ -5,7 +5,7 @@
 ![Habitly Screenshot](https://via.placeholder.com/1200x600/0d0d0f/2dd4bf?text=Habitly+—+Daily+Habit+Tracker)
 
 ## 🌐 Live Demo
-**[habitly.vercel.app](https://habitly.vercel.app)** ← update this after deploying
+**[habitly.vercel.app](https://habitly-web.vercel.app/)**
 
 ---
 
